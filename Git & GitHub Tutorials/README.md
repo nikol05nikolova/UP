@@ -1,4 +1,4 @@
-## На кратко
+## Overview
 
 0. Star the repository
 ![star the repo](images/star-the-repo.png)
