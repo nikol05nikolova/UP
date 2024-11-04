@@ -1,3 +1,0 @@
-﻿  zad15.cpp
-C:\Users\User\source\repos\ConsoleApplication23102024\zad15\zad15.cpp(20,12): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
-  zad15.vcxproj -> C:\Users\User\source\repos\ConsoleApplication23102024\x64\Debug\zad15.exe

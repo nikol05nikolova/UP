@@ -1,3 +1,0 @@
-﻿  zad4.cpp
-C:\Users\User\source\repos\Homework29102024\zad4\zad4.cpp(19,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-  zad4.vcxproj -> C:\Users\User\source\repos\Homework29102024\x64\Debug\zad4.exe

@@ -1,4 +1,0 @@
-﻿  zad22.cpp
-C:\Users\User\source\repos\ConsoleApplication30102024\zad22\zad22.cpp(10,20): warning C4018: '<=': signed/unsigned mismatch
-C:\Users\User\source\repos\ConsoleApplication30102024\zad22\zad22.cpp(53,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-  zad22.vcxproj -> C:\Users\User\source\repos\ConsoleApplication30102024\x64\Debug\zad22.exe

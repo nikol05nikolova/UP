@@ -1,5 +1,0 @@
-﻿  zad5.cpp
-C:\Users\User\source\repos\Homework29102024\zad5\zad5.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\User\source\repos\Homework29102024\zad5\zad5.cpp(20,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\User\source\repos\Homework29102024\zad5\zad5.cpp(30,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-  zad5.vcxproj -> C:\Users\User\source\repos\Homework29102024\x64\Debug\zad5.exe
