@@ -10,7 +10,6 @@
     - [How to clone a repository.](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 3. Fetch origin
-    - ![fetch origin](images/fetch-origin.png)
 
 4. Create a branch 
     - You should create a branch for each **practicum**.
@@ -26,7 +25,7 @@
 6. Commit a solution to a task
     - Commit the file for the task.
     - **Each task should be in a separate commit.**
-    - Repeat steps 5. and 6. until you finish all the tasks for the current practicum.
+    - Repeat steps 5. and 6. until you have 3 tasks committed.
     - [About commits.](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#about-commits)
 
 7. Open PR to the original repository to the master branch
@@ -52,3 +51,4 @@
 
 | :boom: **DANGER**|
 |:-----------------|
+| ***If a pull request has more than 3 tasks or the title or description is not in the format described above, the PR will be rejected and not reviewed.***|
