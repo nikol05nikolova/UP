@@ -1,0 +1,4 @@
+﻿  zad4.cpp
+C:\Users\User\source\repos\ConsoleApplication221012024\zad4\zad4.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\User\source\repos\ConsoleApplication221012024\zad4\zad4.cpp(25,23): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+  zad4.vcxproj -> C:\Users\User\source\repos\ConsoleApplication221012024\x64\Debug\zad4.exe

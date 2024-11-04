@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C50C351-4E7A-42EE-B8CF-882D689788B4}|zad9\\zad9.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad9\\zad9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C50C351-4E7A-42EE-B8CF-882D689788B4}|zad9\\zad9.vcxproj|solutionrelative:zad9\\zad9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235B1FEF-59CF-40DE-9895-C07E41C667B2}|zad8\\zad8.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad8\\zad8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{235B1FEF-59CF-40DE-9895-C07E41C667B2}|zad8\\zad8.vcxproj|solutionrelative:zad8\\zad8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB41E7-88CA-454E-B357-9636E0567C12}|zad7\\zad7.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad7\\zad7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21FB41E7-88CA-454E-B357-9636E0567C12}|zad7\\zad7.vcxproj|solutionrelative:zad7\\zad7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF55FB7-22F4-45AA-899D-297E9E8856A3}|zad6\\zad6.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad6\\zad6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FF55FB7-22F4-45AA-899D-297E9E8856A3}|zad6\\zad6.vcxproj|solutionrelative:zad6\\zad6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DD07E1-F4E3-4AAF-94BB-5D434393898A}|zad5Solution2\\zad5Solution2.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad5Solution2\\zad5Solution2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02DD07E1-F4E3-4AAF-94BB-5D434393898A}|zad5Solution2\\zad5Solution2.vcxproj|solutionrelative:zad5Solution2\\zad5Solution2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E2EB1E-A76D-45C1-AA4F-78BE3D5781DA}|zad5\\zad5.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad5\\zad5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72E2EB1E-A76D-45C1-AA4F-78BE3D5781DA}|zad5\\zad5.vcxproj|solutionrelative:zad5\\zad5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE21688-F320-4F4C-8A70-28F8C10A572C}|zad4\\zad4.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad4\\zad4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FE21688-F320-4F4C-8A70-28F8C10A572C}|zad4\\zad4.vcxproj|solutionrelative:zad4\\zad4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE341030-6BC1-436E-8105-773478BAAA78}|zad3\\zad3.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad3\\zad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE341030-6BC1-436E-8105-773478BAAA78}|zad3\\zad3.vcxproj|solutionrelative:zad3\\zad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEFAACA-9DE1-4EC4-B836-AC5FA8103934}|zad2\\zad2.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad2\\zad2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CEFAACA-9DE1-4EC4-B836-AC5FA8103934}|zad2\\zad2.vcxproj|solutionrelative:zad2\\zad2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4506C6EB-C113-4567-A314-FA5B1048A714}|ConsoleApplication221012024\\ConsoleApplication221012024.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\ConsoleApplication221012024\\ConsoleApplication22102024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4506C6EB-C113-4567-A314-FA5B1048A714}|ConsoleApplication221012024\\ConsoleApplication221012024.vcxproj|solutionrelative:ConsoleApplication221012024\\ConsoleApplication22102024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad9.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad9\\zad9.cpp",
+              "RelativeDocumentMoniker": "zad9\\zad9.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad9\\zad9.cpp",
+              "RelativeToolTip": "zad9\\zad9.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T19:46:29.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zad8.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad8\\zad8.cpp",
+              "RelativeDocumentMoniker": "zad8\\zad8.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad8\\zad8.cpp",
+              "RelativeToolTip": "zad8\\zad8.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T19:37:42.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "zad7.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad7\\zad7.cpp",
+              "RelativeDocumentMoniker": "zad7\\zad7.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad7\\zad7.cpp",
+              "RelativeToolTip": "zad7\\zad7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T19:29:10.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "zad6.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad6\\zad6.cpp",
+              "RelativeDocumentMoniker": "zad6\\zad6.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad6\\zad6.cpp",
+              "RelativeToolTip": "zad6\\zad6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T19:22:26.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "zad5Solution2.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad5Solution2\\zad5Solution2.cpp",
+              "RelativeDocumentMoniker": "zad5Solution2\\zad5Solution2.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad5Solution2\\zad5Solution2.cpp",
+              "RelativeToolTip": "zad5Solution2\\zad5Solution2.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T19:09:35.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "zad5.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad5\\zad5.cpp",
+              "RelativeDocumentMoniker": "zad5\\zad5.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad5\\zad5.cpp",
+              "RelativeToolTip": "zad5\\zad5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T11:46:36.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "zad4.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad4\\zad4.cpp",
+              "RelativeDocumentMoniker": "zad4\\zad4.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad4\\zad4.cpp",
+              "RelativeToolTip": "zad4\\zad4.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T11:32:38.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "zad3.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad3\\zad3.cpp",
+              "RelativeDocumentMoniker": "zad3\\zad3.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad3\\zad3.cpp",
+              "RelativeToolTip": "zad3\\zad3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T11:25:01.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "zad2.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad2\\zad2.cpp",
+              "RelativeDocumentMoniker": "zad2\\zad2.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\zad2\\zad2.cpp",
+              "RelativeToolTip": "zad2\\zad2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T11:12:49.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsoleApplication22102024.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\ConsoleApplication221012024\\ConsoleApplication22102024.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication221012024\\ConsoleApplication22102024.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication221012024\\ConsoleApplication221012024\\ConsoleApplication22102024.cpp",
+              "RelativeToolTip": "ConsoleApplication221012024\\ConsoleApplication22102024.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T10:50:49.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  zad12.cpp
+C:\Users\User\source\repos\ConsoleApplication23102024\zad12\zad12.cpp(33,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\ConsoleApplication23102024\zad12\zad12.cpp(51,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  zad12.vcxproj -> C:\Users\User\source\repos\ConsoleApplication23102024\x64\Debug\zad12.exe

@@ -1,0 +1,6 @@
+﻿  zad9.cpp
+C:\Users\User\source\repos\Homework29102024\zad9\zad9.cpp(29,16): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Homework29102024\zad9\zad9.cpp(30,16): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Homework29102024\zad9\zad9.cpp(33,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Homework29102024\zad9\zad9.cpp(34,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  zad9.vcxproj -> C:\Users\User\source\repos\Homework29102024\x64\Debug\zad9.exe
