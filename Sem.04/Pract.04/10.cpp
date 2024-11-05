@@ -21,6 +21,7 @@ int sqrt(int number)
 
     return -1;
 }
+
 int main()
 {
     int n;

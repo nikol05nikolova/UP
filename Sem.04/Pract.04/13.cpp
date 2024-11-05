@@ -12,6 +12,7 @@ int pow(int n, int k)
 
     return result;
 }
+
 int digitsCount(int n)
 {
     if (n == 0)
@@ -29,6 +30,7 @@ int digitsCount(int n)
 
     return count;
 }
+
 int concat(int first, int second)
 {
     int concatedNum = first;
@@ -43,6 +45,7 @@ int concat(int first, int second)
 
     return concatedNum;
 }
+
 int main()
 {
     int firstNum, secondNum;

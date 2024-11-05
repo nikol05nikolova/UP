@@ -5,6 +5,7 @@ bool isInInterval(int num, int from, int to)
 {
     return num >= from && num <= to;
 }
+
 int askUser(int from, int to)
 {
     int num;
@@ -20,6 +21,7 @@ int askUser(int from, int to)
 
     return num;
 }
+
 int main()
 {
     cout << askUser(10, 20);

@@ -42,6 +42,7 @@ int sortedNumber(int num)
     }
     return sortedNum;
 }
+
 int main()
 {
     int num;

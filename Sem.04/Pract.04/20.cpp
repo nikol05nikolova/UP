@@ -27,6 +27,7 @@ int oneDigitSum(long long num)
 
     return digitsSum;
 }
+
 int main()
 {
     long long num;

@@ -38,6 +38,7 @@ int getDigit(int number, int k)
 
     return numLastDigitK % 10;
 }
+
 int main()
 {
     int num, k;

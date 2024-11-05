@@ -7,6 +7,7 @@ void swap(int& first, int& second)
     first = second;
     second = temp;
 }
+
 int leastCommonMultiple(int a, int b)
 {
     if (a == 0 || b == 0)
@@ -26,6 +27,7 @@ int leastCommonMultiple(int a, int b)
 
     return lcm;
 }
+
 int leastCommonMultiple(int a, int b, int c)
 {
     int lcmAB = leastCommonMultiple(a, b);
@@ -33,6 +35,7 @@ int leastCommonMultiple(int a, int b, int c)
 
     return lcmABC;
 }
+
 int main()
 {
     int a, b, c;
