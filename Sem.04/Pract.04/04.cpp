@@ -12,7 +12,7 @@ double fabs(double num)
 {
 	return num >= 0
 		? num
-		: -num;
+		: - 1 * num;
 }
 
 int main()
