@@ -19,7 +19,7 @@ int getDigitsCount(int n)
     return count;
 }
 
-int pow(int n, int k)
+long pow(long n, int k)
 {
     int result = 1;
 

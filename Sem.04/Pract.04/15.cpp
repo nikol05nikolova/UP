@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int pow(int num, unsigned int n)
+long pow(long num, unsigned int n)
 {
     int result = 1;
 

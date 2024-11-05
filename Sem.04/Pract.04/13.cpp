@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int pow(int n, int k)
+long pow(long n, int k)
 {
     int result = 1;
 
