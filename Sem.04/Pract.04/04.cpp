@@ -5,21 +5,23 @@ double fabs(double num);
 
 int abs(int num)
 {
-    return fabs(num);
+	return fabs(num);
 }
+
 double fabs(double num)
 {
-    return num >= 0
-        ? num
-        : -num;
+	return num >= 0
+		? num
+		: -num;
 }
+
 int main()
 {
-    int integer;
-    double floatingNum;
-    cin >> integer >> floatingNum;
+	int integer;
+	double floatingNum;
+	cin >> integer >> floatingNum;
 
-    cout << abs(integer) << endl << fabs(floatingNum);
+	cout << abs(integer) << endl << fabs(floatingNum);
 
-    return 0;
+	return 0;
 }
