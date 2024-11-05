@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+double fabs(double num);
+
 int abs(int num)
 {
     return fabs(num);
