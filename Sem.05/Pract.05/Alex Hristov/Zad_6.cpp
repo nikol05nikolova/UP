@@ -4,38 +4,26 @@ using namespace std;
 const int n = 1000;
 
 int lengthLongestDecreasingSequence(int arr[], int n) {
-    
-    for(int i = 0;i<n;i++){
-        int temp;
-        for(int j = 0;j<n-1;j++)
-            
-            if(arr[j]>arr[j+1]){
-                temp = arr[j];
-                arr[j] = arr[j+1];
-                arr[j+1] = temp;    
-            }
-        
-        
-    }
+
     int count = 0;
     int countMax = count;
     int difference = 0;
     
     for(int j = 0;j<n-1;j++){
-        difference = arr[j+1]-arr[j];
-        
-        
-        if(difference==1 || difference==0){
+        difference = arr[j]-arr[j+1];
+       
+        if(difference>0){
+            count++;
             if(countMax< count){
                 countMax = count;
             }
-            count++;
+            
         }else{
             count=0;
         }
-        cout<<endl;
+        
     }
-    return countMax;
+    return countMax+1;
     
 }
 
