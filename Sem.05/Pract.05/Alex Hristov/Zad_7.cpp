@@ -3,7 +3,7 @@ using namespace std;
 
 const int n = 1000;
 
-int lengthLongestDecreasingSequence(int arr[], int n) {
+int lengthLongestRepetetiveSequence(int arr[], int n) {
 
     int count = 0;
     int countMax = count;
@@ -38,7 +38,7 @@ int main()
 	for (int i = 0; i < n; i++) {
 		cin >> arr[i];
 	}
-	cout<<"Length of longest decreasing sequence:"<<lengthLongestDecreasingSequence(arr,n);
+	cout<<"Length of longest reptetitive sequence:"<<lengthLongestDecreasingSequence(arr,n);
     
     
     return 0;
