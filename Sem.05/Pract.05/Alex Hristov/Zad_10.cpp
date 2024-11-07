@@ -3,7 +3,7 @@ using namespace std;
 
 const int n = 1000;
 
-void mostFrequent (int arr1[],int arr2[], int result[], int n, int m) {
+void IntersectionAndUnion (int arr1[],int arr2[], int result[], int n, int m) {
     int indexResult = 0;
     for(int i = 0;i<n;i++){
         for(int j = 0;j<m;j++){
@@ -75,7 +75,7 @@ int main()
 
 
 
-	mostFrequent (arr1,arr2,result,n,m);
+	IntersectionAndUnion (arr1,arr2,result,n,m);
     
     
     return 0;
