@@ -19,8 +19,10 @@ int main()
     cin>>num;
     cout<<"Enter step for pow of number:";
     cin>>step;
+    if(step>0){
+        cout<<"Number in interval:"<<powNum(num,step);
+    }
     
-    cout<<"Number in interval:"<<powNum(num,step);
     
   
     
