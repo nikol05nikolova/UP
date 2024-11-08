@@ -30,13 +30,13 @@ int FirstMostOftenRepeatingNumber(int array[], int size) {
 
 int main()
 {
-	const int ArrayCapacity = 9;
+	const int ArrayCapacity = 1000;
 
 	int size;
 	cin >> size;
 
-	if (size < 1 || size > 9) {
-		cout << "Please enter a number between 1 and 9!";
+	if (size < 1 || size > 1000) {
+		cout << "Please enter a number between 1 and 1000!";
 		return 0;
 	}
 
