@@ -85,4 +85,6 @@ int main()
 
 	cout << average << endl;
 	cout << closestToAvg << endl;
+
+	return 0;
 }
