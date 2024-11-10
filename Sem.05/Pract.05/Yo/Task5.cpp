@@ -3,8 +3,8 @@
 
 bool isSymmetrical(int* arr, int arrSize) {
 	int midPoint = arrSize / 2;
-	for (int i = 1; i < arrSize; ++i) {
-		if (i >= midPoint && arr[i] != arr[arrSize - i - 1]) return false;
+	for (int i = midPoint; i < arrSize; ++i) {
+		if (arr[i] != arr[arrSize - i - 1]) return false;
 	}
 	return true;
 }
