@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int square(int n) {
+bool square(int n) {
     int i = 0;
     while (i * i <= n) {
         if (i * i == n) {
