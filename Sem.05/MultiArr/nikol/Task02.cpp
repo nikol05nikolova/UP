@@ -1,12 +1,12 @@
-void printDiagonals(int matrix[3][3])
+void printDiagonals(int matrix[N][N])
 {
-	for (int i = 0; i < 3; i++)
+	for (int i = 0; i < N; i++)
 	{
 		cout << matrix[i][i] << " ";
 	}
 	cout << endl;
-	for (int i = 0; i < 3; i++)
+	for (int i = 0; i < N; i++)
 	{
-		cout << matrix[i][2 - i] << " ";
+		cout << matrix[i][N - 1 - i] << " ";
 	}
 }
