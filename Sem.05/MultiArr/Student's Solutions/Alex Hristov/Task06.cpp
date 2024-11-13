@@ -1,3 +1,9 @@
+#include <iostream>
+
+using namespace std;
+
+const int n = 4;
+
 bool isMagicalSquare(int matrix[][n]) {
     int sumRow = 0;
     int sumCol = 0;
@@ -32,4 +38,25 @@ bool isMagicalSquare(int matrix[][n]) {
     return true;
  
 
+}
+
+
+int main(){
+    int matrix[n][n];
+
+    for(int i = 0; i < n;i++){
+        for(int j = 0; j < n; j++){
+            cout<<"Enter number:";
+            cin>>matrix[i][j];
+        }
+    }
+
+    if(isMagicalSquare(matrix)){
+        cout<<"Yes";
+    }else{
+        cout<<"No";
+    }
+        
+    
+    return 0;
 }
