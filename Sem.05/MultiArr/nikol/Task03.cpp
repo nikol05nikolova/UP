@@ -1,8 +1,8 @@
-void printZigZag(int matrix[3][3])
+void printZigZag(int matrix[N][N])
 {
-	for (int i = 0; i < 3; i++)
+	for (int i = 0; i < N; i++)
 	{
-		for (int j = 0; j < 3; j++)
+		for (int j = 0; j < N; j++)
 		{
 			if (i % 2 == 0)
 			{
@@ -10,7 +10,7 @@ void printZigZag(int matrix[3][3])
 			}
 			else
 			{
-				cout << matrix[i][2-j] << " ";
+				cout << matrix[i][N - 1 - j] << " ";
 			}
 		}
 		cout << endl;
