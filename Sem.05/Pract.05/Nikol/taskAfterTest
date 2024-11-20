@@ -1,0 +1,52 @@
+#include <iostream>
+using namespace std;
+
+const int SIZE = 6;
+
+int analyze(int* arr, int size, int& foundSum, int& index)
+{
+	
+	for (int i = 1; i < size; i++)
+	{
+		int sum1 = 0;
+		int sum2 = 0;
+
+		for (int j = 0; j < i; j++)
+		{
+			sum1 += arr[j];
+		}
+		for (int j = i; j < size; j++)
+		{
+			sum2 += arr[j];
+		}
+
+		if (sum1 == sum2)
+		{
+			index = i;
+			foundSum = sum1;
+			return 1;
+		}
+	}
+	return 0;
+
+}
+
+
+int main()
+{
+	int arr[SIZE] = { 1, 9, 4, 1, 2, 3};
+
+	int foundSum = 0;
+	int index = 0;
+
+	if (analyze(arr, SIZE, foundSum, index))
+	{
+		cout << "There is a sum that was found!" << endl;
+		cout << "The found sum is: " << foundSum << endl;
+		cout << "The line is before the index: " << index;
+	}
+	else
+	{
+		cout << "There is no sum!";
+	}
+}
