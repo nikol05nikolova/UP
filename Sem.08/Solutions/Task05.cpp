@@ -13,8 +13,8 @@ void CheckStr(char str[], char repeating[]) {
 	if (!str || !repeating) return;
 
 	const int ENOUGH_OCCURRENCES = 2;
-	const int ASCII_TABLE_LENGTH = 127;
-	char occurrences[ASCII_TABLE_LENGTH] = { 0 };
+	const int ASCII_TABLE_SIZE = 128;
+	char occurrences[ASCII_TABLE_SIZE] = { 0 };
 
 	int len = strLen(str);
 
@@ -23,7 +23,7 @@ void CheckStr(char str[], char repeating[]) {
 	}
 
 	int repeatingIdx = 0;
-	for (int i = 0; i < ASCII_TABLE_LENGTH; i++) {
+	for (int i = 0; i < ASCII_TABLE_SIZE; i++) {
 		if (occurrences[i] >= ENOUGH_OCCURRENCES) {
 			repeating[repeatingIdx] = i;
 			repeatingIdx++;

@@ -12,8 +12,8 @@ int strLen(const char* str) {
 int CheckStr(char str[]) {
 	if (str == nullptr) return -1;
 
-	const int ASCII_TABLE_LENGTH = 127;
-	char occurrences[ASCII_TABLE_LENGTH] = { 0 };
+	const int ASCII_TABLE_SIZE = 128;
+	char occurrences[ASCII_TABLE_SIZE] = { 0 };
 
 	int len = strLen(str);
 
@@ -22,7 +22,7 @@ int CheckStr(char str[]) {
 	}
 
 	bool foundFirstOdd = false;
-	for (int i = 0; i < ASCII_TABLE_LENGTH; i++) {
+	for (int i = 0; i < ASCII_TABLE_SIZE; i++) {
 		if (occurrences[i] & 1) { // the same as: occurrences[i] % 2 != 0
 			if (foundFirstOdd) return false;
 			else foundFirstOdd = true;

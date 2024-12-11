@@ -27,7 +27,7 @@ long strToInt(char* str, unsigned len) {
 		result *= 10;
 
 		char digit = charToInt(str[i]);
-		if (digit == -1) return -1;
+		if (digit == -1) return -1; // :/
 
 		result += digit;
 	}
@@ -46,11 +46,16 @@ int CheckTimeStr(char timeStr[]) {
 	int len = strLen(timeStr);
 	if (len != TIME_STR_LEN) return -1;
 
-	if (timeStr[2] != ':' || timeStr[5] != ':') return -1;
+	const int firstColonIdx = 2;
+	const int secondColonIdx = 5;
+	const int minsBegIdx = 3;
+	const int secsBegIdx = 6;
+
+	if (timeStr[firstColonIdx] != ':' || timeStr[secondColonIdx] != ':') return -1;
 
 	int hours = strToInt(timeStr, 2);
-	int mins = strToInt(timeStr + 3, 2);
-	int secs = strToInt(timeStr + 6, 2);
+	int mins = strToInt(timeStr + minsBegIdx, 2);
+	int secs = strToInt(timeStr + secsBegIdx, 2);
 	if (!validateHHMMSS(hours, mins, secs)) return -1;
 
 	return 0;
