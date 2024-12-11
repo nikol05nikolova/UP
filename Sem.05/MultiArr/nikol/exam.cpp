@@ -1,3 +1,25 @@
+#include <iostream>
+using namespace std;
+const int ASCII_MAX_SIZE = 128;
+
+int length(char* arr)
+{
+	if (arr == nullptr)
+	{
+		return -1;
+	}
+
+	int lenght = 0;
+
+	while (*arr != '\0')
+	{
+		lenght++;
+		arr++;
+	}
+
+	return lenght;
+}
+
 //1
 bool AnalyzeArr(int* arr, int length)
 {
@@ -24,64 +46,85 @@ bool AnalyzeArr(int* arr, int length)
 	return false;
 }
 
+
 //2
+//int CheckStr(char* text)
+//{
+//	int len = length(text);
+//	const int MIN_LEN = 2;
+//
+//	if (text == nullptr || len < MIN_LEN)
+//	{
+//		return -1;
+//	}
+//
+//	int odd = 0;
+//
+//	for (size_t i = 0; i < len; i++)
+//	{
+//		char sym = text[i];
+//		int counter = 0;
+//		for (size_t j = 0; j < len; j++)
+//		{
+//			if (text[j] == sym)
+//			{
+//				counter++;
+//			}
+//
+//		}
+//		if (length(text) % 2 == 0 && counter % 2 != 0)
+//		{
+//			return 0;
+//		}
+//
+//		if (length(text) % 2 != 0 && counter % 2 != 0)
+//		{
+//			odd++;
+//		}
+//	}
+//
+//	if (odd > 1)
+//	{
+//		return 0;
+//	}
+//
+//	return 1;
+//}
 
-int length(char* arr)
+//5
+void CheckStr(char* text, char* result)
 {
-	int lenght = 0;
-
-	while (*arr != '\0')
+	if (text == nullptr)
 	{
-		lenght++;
-		arr++;
+		cout << "not valid";
+		return;
 	}
 
-	return lenght;
+	int testLength = length(text);
+
+	int ascii[ASCII_MAX_SIZE] = { 0 };
+	for (size_t i = 0; i < testLength; i++)
+	{
+		ascii[text[i]]++;
+	}
+
+	int index = 0;
+	for (size_t i = 0; i < ASCII_MAX_SIZE; i++)
+	{
+		if (ascii[i] >= 2)
+		{
+			result[index] = i;
+			index++;
+		}
+	}
+	result[index] = '\0';
+
 }
-
-int CheckStr(char* text)
-{
-	if (text == nullptr || length(text) < 2)
-	{
-		return -1;
-	}
-
-	int odd = 0;
-
-	for (size_t i = 0; i < length(text); i++)
-	{
-		char sym = text[i];
-		int counter = 0;
-		for (size_t j = 0; j < length(text); j++)
-		{
-			if (text[j] == sym)
-			{
-				counter++;
-			}
-
-		}
-		if (length(text) % 2 == 0 && counter % 2 != 0)
-		{
-			return 0;
-		}
-
-		if (length(text) % 2 != 0 && counter % 2 != 0)
-		{
-			odd++;
-		}
-	}
-
-	if (odd > 1)
-	{
-		return 0;
-	}
-
-	return 1;
-}
-
 
 int main()
 {
-	char arr[] = "bllbhf";
-	cout << CheckStr(arr);
+	char text[] = "aif8sltt8f";
+	char result[] = "aif8sltt8f";
+	CheckStr(text,result);
+	cout << result;
 }
